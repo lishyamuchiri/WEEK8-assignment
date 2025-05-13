@@ -1,4 +1,4 @@
-Here’s the **README.md** file ready to copy and paste into your GitHub repository:
+
 
 ```markdown
 # Library Management System (MySQL)
@@ -27,8 +27,6 @@ mysql -u [username] -p library_db < library_management.sql
 2. Execute all statements (Ctrl+Shift+Enter).  
 
 ## 🔗 ER Diagram  
-![ER Diagram](er_diagram.png)  
-*(Generated using [draw.io](https://draw.io) | [Lucidchart](https://lucidchart.com))*  
 
 ## 📂 Repository Structure  
 ```
@@ -53,13 +51,3 @@ CREATE TABLE books (
 - Replace placeholder values (e.g., `[username]`) with your MySQL credentials.  
 - For M:N relationships (e.g., books-authors), additional junction tables are recommended.  
 
----
-Developed for **Week 8 Assignment** | 🚀 Push your `.sql` file to GitHub!  
-```
-
-### Key Additions:
-1. **ER Diagram Link**: Replace `er_diagram.png` with your actual diagram (export as PNG/SVG).  
-2. **SQL Highlight**: Added a code snippet to showcase constraints.  
-3. **Setup Clarity**: Two methods for running the SQL file.  
-
-Let me know if you’d like to tweak the tone or add more sections! 😊
